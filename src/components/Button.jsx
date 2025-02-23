@@ -24,7 +24,6 @@ const Button = ({ id, title, rightIcon, leftIcon, containerClass }) => {
 		</button>
 	);
 };
-
 Button.propTypes = {
 	id: PropTypes.string,
 	title: PropTypes.string.isRequired,

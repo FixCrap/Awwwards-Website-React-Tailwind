@@ -1,6 +1,6 @@
 import { gsap } from "gsap";
 import { useEffect, useRef } from "react";
-import { ScrollTrigger } from "gsap/all";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 import clsx from "clsx";
 import PropTypes from "prop-types";
 
